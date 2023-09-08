@@ -6,7 +6,8 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A plugin manager for Neovim
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - A configurations and abstraction layer for Neovim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - A Fuzzy Finder for Neovim
-- [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) - A theme for Neovim
+- [olivercederborg/poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim) - A theme for Neovim
+- [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A theme for Neovim
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - Neovim statusline written in Lua
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - LSP-Config + Mason + CMP
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - Luasnip completion source for nvim-cmp
