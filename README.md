@@ -1,5 +1,10 @@
-<img src="./images/Tema1Neovim.png">
-<img src="./images/tema2Neovim.png">
+ <img src="./images/Tema1Neovim.png">
+ <img src="./images/tema2Neovim.png">
+
+Changing themes
+
+https://github.com/GDF97/neovim-config-lua/assets/117999512/8e967f13-878d-480a-a444-dabd5614b95c
+
 
 ### Neovim config
 
